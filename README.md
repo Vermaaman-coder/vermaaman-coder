@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/amanverma7082" target="blank"><img src="https://img.shields.io/twitter/follow/amanverma7082?logo=twitter&style=for-the-badge" alt="amanverma7082" /></a> </p>
 
-- 🌱 I’m currently learning **Mysql**
+- 🌱 I’m currently learning **DSA**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Vermaaman-coder](https://github.com/Vermaaman-coder)
 
